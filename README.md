@@ -112,3 +112,27 @@ reverse!
 ```
 ![Result after Reversing](https://github.com/AWeirdScratcher/dreamberd-interpreter/assets/90096971/984bee0c-87ff-4adb-93dd-133599a0d95e)
 
+
+# Unsupported Features
+- `var var`
+- ~~`const const const`~~ (not going to)
+- equality, statements... (`==` `!=` `>` `<` `<=` `>=`)
+- emoji naming
+- arrays
+- when
+- lifetimes (priority)
+- arithmetic
+- functions
+- dividing by 0
+- useless types
+- Regular Expressions
+- Previous
+- Classes / ClassNames (may not be following the docs)
+- Time (may not be following the docs)
+- Delete
+- Overloading (may be the last to finish)
+- DBX (may be the last to finish)
+- Async Functions (need help)
+- Signals (doing when arrays are finished)
+- AI (INCOMPLETE)
+- Copilot (if we managed to make the prompts)
