@@ -1,10 +1,37 @@
 # dreamberd-interpreter
 Now the DreamBerd foundation does not own this project.
 
+Big shoutout to [@sus2790](https://github.com/sus2790) for helping me out with this project! Really appreciate it! :heart:
+
+# Installation
+To install, you'll need to install the DreamBerd Installer Installer. [Learn how to](https://github.com/git-guides/install-git)
+
+Then, install the DreamBerd installer & run it:
+```haskell
+$ git clone https://github.com/AWeirdScratcher/dreamberd-interpreter
+-- Cloning into 'dreamberd-interpreter'...
+-- remote: Enumerating objects: 61, done.
+-- remote: Counting objects: 100% (61/61), done.
+-- remote: Compressing objects: 100% (57/57), done.
+-- remote: Total 61 (delta 24), reused 0 (delta 0), pack-reused 0
+-- Receiving objects: 100% (61/61), 17.98 KiB | 2.25 MiB/s, done.
+-- Resolving deltas: 100% (24/24), done.
+
+$ cd dreamberd-interpreter
+$ python installer.py
+```
+
+Then you're done installing!
+
 # Running
-This repo is still in BETA, which you cannot access yet. However, you can learn how you can run it when it's released :/
+To run in your command line:
 ```haskell
 $ python3 -m dreamberd your_file.db
+```
+
+or, inline code:
+```haskell
+$ python3 -m dreamberd 'print("I love dreamberd")!'
 ```
 
 # Speed
