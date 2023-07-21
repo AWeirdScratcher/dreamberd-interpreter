@@ -4,6 +4,8 @@ Now the DreamBerd foundation does not own this project.
 Big shoutout to [@sus2790](https://github.com/sus2790) for helping me out with this project! Really appreciate it! :heart:
 
 # Installation
+> Update: We recommend you to run this on [Replit](https://replit.com/) if you don't have cargo installed.
+
 To install, you'll need to install the DreamBerd Installer Installer. [Learn how to](https://github.com/git-guides/install-git)
 
 Then, install the DreamBerd installer & run it:
